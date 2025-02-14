@@ -1,6 +1,4 @@
 config\ConfigReader.class
 core\BaseTest.class
 tests\LoginTest.class
-
-tests\PurchaseTest.class
 tests\NewsUpdateTest.class
