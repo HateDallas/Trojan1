@@ -1,0 +1,3 @@
+config\ConfigReader.class
+core\BaseTest.class
+tests\LoginTest.class
